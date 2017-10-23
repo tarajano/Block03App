@@ -2,4 +2,12 @@
     <string name="app_name">Block03App</string>
     <string name="textSmallButton">Small</string>
     <string name="textBigButton">Big</string>
+    <string name="textNorthButton">N</string>
+    <string name="textSouthButton">S</string>
+    <string name="textEastButton">E</string>
+    <string name="textWestButton">W</string>
+    <string name="textNorthEastButton">NE</string>
+    <string name="textSouthEastButton">SE</string>
+    <string name="textSouthWestButton">SW</string>
+    <string name="textNorthWestButton">NW</string>
 </resources>
