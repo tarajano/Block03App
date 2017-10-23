@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Block03App</string>
+    <string name="textSmallButton">Small</string>
+    <string name="textBigButton">Big</string>
 </resources>
