@@ -7,7 +7,6 @@
     android:orientation="vertical"
     android:weightSum="100"
     tools:context="com.example.tarajano.block03app.MainActivity">
-
     <LinearLayout
         android:id="@+id/linearLayoutTop"
         android:layout_width="match_parent"
@@ -17,12 +16,12 @@
         android:background="@android:color/holo_blue_light">
 
         <Button
-            android:id="@+id/buttomSmall"
+            android:id="@+id/buttonSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/textSmallButton" />
         <Button
-            android:id="@+id/buttomBig"
+            android:id="@+id/buttonBig"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="5"
@@ -30,7 +29,7 @@
     </LinearLayout>
 
     <RelativeLayout
-        android:id="@+id/relativeLayoutButton"
+        android:id="@+id/relativeLayoutBottom"
         android:layout_width="wrap_content"
         android:layout_height="0px"
         android:layout_weight="70"
